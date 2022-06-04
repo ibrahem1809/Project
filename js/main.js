@@ -22,5 +22,5 @@ function calc(){
     }
     star.innerHTML=cartona;
 }
-header.innerHTML=`Hallo ${userName}`;
+header.innerHTML=`Hello ${userName}`;
 main.innerHTML=`What's Your Birthday`;
